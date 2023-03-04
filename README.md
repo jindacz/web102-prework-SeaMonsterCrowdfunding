@@ -1,6 +1,7 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Jinda Zhang**
+- Submitted by: **Jinda Zhang**
+- Deployed at: https://curious-capybara-e83b4f.netlify.app/
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
